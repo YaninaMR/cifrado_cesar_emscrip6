@@ -1,0 +1,10 @@
+
+textarea {
+ width:400px;
+}
+button.codifytext {
+  background-color: lightyellow;
+  border: 1px solid #000;
+  border-radius: 5px;
+  color: #000;
+}
